@@ -1,7 +1,13 @@
 ## Description
 A full stack web application that supports account creation & user login. This application allows registered users to create, edit, or delete posts. Posts may be set as public or private. Public posts are visisble to every registered user to view & private posts are only visible to the creator.
 
-The project is deployed here: https://agile-waters-63883.herokuapp.com/
+Edit: (New deployment)
+
+The project is deployed here: https://boobeh-storybooks.onrender.com/
+
+(Previous deployment, heroku no longer free)
+
+~~The project is deployed here: https://agile-waters-63883.herokuapp.com/~~
 
 ## Demo
 ![demo](storybooksdemo.gif)
